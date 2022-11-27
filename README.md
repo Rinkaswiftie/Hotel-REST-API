@@ -1,8 +1,9 @@
 # Hotel REST API
  A small hotel REST API built to practice .NET Core fundamentals with Authentication and Authorization, Swagger Doc integration and Unit tests.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-[![Build Status][travis-image]][travis-url]
 
 Features
 - A RESTful Web api with .NET CORE 6 using an In-Memory Database provider
@@ -16,6 +17,9 @@ Features
 
 
 ```sh
+
+![APIs](https://user-images.githubusercontent.com/45427686/204125818-250711a6-f561-43be-81e4-73aad4f3e36c.png)
+
 Calculating coverage result...
 +----------+--------+--------+--------+
 | Module   | Line   | Branch | Method |
