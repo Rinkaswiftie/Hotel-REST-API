@@ -58,7 +58,7 @@ Rinka Viswathirupathi
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/Rinkaswiftie/Hotel-REST-API]([https://github.com/dbader/](https://github.com/Rinkaswiftie/))
+[https://github.com/Rinkaswiftie/Hotel-REST-API]([https://github.com/Rinkaswiftie/](https://github.com/Rinkaswiftie/))
 
 ## Contribute
 
