@@ -9,17 +9,14 @@ Features
 - A RESTful Web api with .NET CORE 6 using an In-Memory Database provider
 - Documented with Swagger with Open API Specification V3 using Swashbuckle
 - Authentication and Authorization enabled using JWT Tokens for Access and refresh tokens
-- 80% Code coverage unit tests using XUnit and Cobertura.
+- Unit tests with code coverage reporter using XUnit and Cobertura.
 
 ![](header.png)
 
-## Usage example
-
-
-```sh
+## Image screenshots
 
 ![APIs](https://user-images.githubusercontent.com/45427686/204125818-250711a6-f561-43be-81e4-73aad4f3e36c.png)
-
+```sh
 Calculating coverage result...
 +----------+--------+--------+--------+
 | Module   | Line   | Branch | Method |
@@ -55,7 +52,7 @@ To run unit tests, use the following command
 dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura
 ```
 
-## Meta
+## Author
 
 Rinka Viswathirupathi
 
@@ -63,7 +60,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/Rinkaswiftie/Hotel-REST-API](https://github.com/dbader/)
 
-## Contributing
+## Contribute
 
 1. Fork it (<https://github.com/Rinkaswiftie/Hotel-REST-API/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
