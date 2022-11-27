@@ -1,8 +1,9 @@
 # Hotel REST API
- A small hotel REST API built to practice .NET Core fundamentals with Authentication and Authorization, Swagger Doc integration and Unit tests.
+ A REST API built to practice .NET Core fundamentals with Authentication and Authorization, Swagger Doc integration and Unit tests.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
 
 Features
