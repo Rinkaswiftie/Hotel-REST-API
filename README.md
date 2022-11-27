@@ -35,7 +35,7 @@ Calculating coverage result...
 
 ## Development setup
 
-Install .NET Core 6 and Navigate to the project directory and use the following command to install dependent packages
+Install .NET Core 6 and Navigate to the project directory and use the following command to install dependant packages
 
 ```sh
 dotnet restore
