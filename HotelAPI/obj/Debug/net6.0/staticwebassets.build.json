@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "z35On5InsWhqfRWZoEyzJ6SDbiTZPV2Mzvf8cxzJyOU=",
+  "Source": "HotelAPI",
+  "BasePath": "_content/HotelAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelAPI\\wwwroot",
+      "Source": "HotelAPI",
+      "ContentRoot": "C:\\Rinka\\Learning\\Dot net learning\\HotelAPI\\HotelAPI\\wwwroot\\",
+      "BasePath": "_content/HotelAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Rinka\\Learning\\Dot net learning\\HotelAPI\\HotelAPI\\wwwroot\\Images\\15f58c52-32dd-49b3-bcab-10b3bcd55fcf-marabella.jpg",
+      "SourceId": "HotelAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Rinka\\Learning\\Dot net learning\\HotelAPI\\HotelAPI\\wwwroot\\",
+      "BasePath": "_content/HotelAPI",
+      "RelativePath": "Images/15f58c52-32dd-49b3-bcab-10b3bcd55fcf-marabella.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\15f58c52-32dd-49b3-bcab-10b3bcd55fcf-marabella.jpg"
+    }
+  ]
+}

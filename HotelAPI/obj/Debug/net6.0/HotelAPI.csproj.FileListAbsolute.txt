@@ -1,0 +1,90 @@
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\appsettings.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.staticwebassets.runtime.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.exe
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.deps.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.runtimeconfig.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.pdb
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.xml
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.AssemblyReference.cache
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfoInputs.cache
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfo.cs
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.CoreCompileInputs.cache
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\scopedcss\bundle\HotelAPI.styles.css
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.CopyComplete
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\refint\HotelAPI.dll
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.xml
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.pdb
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.genruntimeconfig.cache
+C:\Rinka\Learning\HotelAPI\HotelAPI\obj\Debug\net6.0\ref\HotelAPI.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\appsettings.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.staticwebassets.runtime.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.exe
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.deps.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.runtimeconfig.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.pdb
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\HotelAPI.xml
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.AssemblyReference.cache
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfoInputs.cache
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfo.cs
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.CoreCompileInputs.cache
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\scopedcss\bundle\HotelAPI.styles.css
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.CopyComplete
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\refint\HotelAPI.dll
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.xml
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.pdb
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\HotelAPI.genruntimeconfig.cache
+C:\Rinka\Learning\Dot net learning\HotelAPI\HotelAPI\obj\Debug\net6.0\ref\HotelAPI.dll

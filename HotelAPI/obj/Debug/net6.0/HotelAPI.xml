@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelAPI</name>
+    </assembly>
+    <members>
+        <member name="M:HotelAPI.Controllers.HotelsController.GetHotels">
+            <summary>Gets All the Hotels</summary>
+            <returns>List of All Hotels</returns>
+        </member>
+        <member name="M:HotelAPI.Controllers.HotelsController.GetHotel(System.Int32)">
+            <summary>Gets a Hotel</summary>
+            <param name="id"></param>
+            <returns>Hotel details</returns>
+            <response code="200">Returns the Hotel details</response>
+            <response code="400">If the hotel doesn't exist</response>
+        </member>
+        <member name="M:HotelAPI.Controllers.HotelsController.CreateNewHotel(HotelAPI.Models.DTO.HotelDTO)">
+             <summary> Creates a Hotel</summary>
+             <param name="newHotel"></param>
+             <returns>A newly created Hotel</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /api/hotels
+                 {
+                    "id": 1,
+                    "name": "The Marbella",
+                    "description": "The Marbella is a hotel on Jane the Virgin, located in Miami, Florida."
+                 }
+             </remarks>
+             <response code="201">Newly created Hotel</response>
+             <response code="400">If the hotel data isn't valid</response>
+        </member>
+        <member name="M:HotelAPI.Controllers.HotelsController.UpdateHotel(System.Int32,HotelAPI.Models.DTO.HotelDTO)">
+            <summary>Updates a Hotel's data</summary>
+            <param name="id"></param>
+            <param name="hotel">Updated Hotel</param>
+            <returns>Hotel details</returns>
+            <response code="204">Successful update</response>
+            <response code="400">If the hotel data isn't valid</response>
+        </member>
+        <member name="M:HotelAPI.Controllers.HotelsController.DeleteHotel(System.Int32)">
+            <summary>Updates a Hotel's data</summary>
+            <param name="id"></param>
+            <returns>Hotel details</returns>
+            <response code="204">Successful delete</response>
+            <response code="404">If the hotel doesn't exist already</response>
+        </member>
+    </members>
+</doc>
